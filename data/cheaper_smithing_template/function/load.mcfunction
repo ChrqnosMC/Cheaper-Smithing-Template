@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Cheaper Smithing Template datapack has been reloaded"}]
